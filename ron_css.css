@@ -1,0 +1,50 @@
+/* 
+    Document   : jquery_css
+    Created on : 29 Jan, 2014, 7:02:49 AM
+    Author     : primod
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.ui-header.ui-bar-inherit { 
+   
+    background-color: #29abe2 !important;
+    border-top-left-radius:  0.4em;
+     border-top-right-radius:  0.4em;
+     border-margin: 0em;
+}
+
+
+h3.ui-title
+{
+  color: #383838 !important;
+  text-align: left;
+}
+
+h4{
+    color: #a5a5a1;
+    margin-top:0em;
+}
+
+.ui-body.ui-body-a.ui-corner-all
+{
+    margin-bottom: 2em;
+}
+
+   
+
+.ui-li-aside {
+    width: 45%;
+    float: right;
+    text-align: right;
+    width: 50%;
+    color: #383838 ;
+    
+}
+    
+    
+li.ui-title 
+{
+  color:  #9a9a98 !important;
+
+}
